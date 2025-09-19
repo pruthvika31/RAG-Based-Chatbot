@@ -5,3 +5,4 @@ langchain
 langchain-transformers
 streamlit
 google-generativeai
+langchain_core
