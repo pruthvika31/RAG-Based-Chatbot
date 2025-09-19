@@ -1,8 +1,11 @@
 faiss-cpu
 sentence-transformers
-pypdf 
-langchain
-langchain-transformers
+pypdf
 streamlit
 google-generativeai
-langchain_core
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-transformers
